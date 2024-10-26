@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<PackageId>Az.Automation.Core</PackageId>
+		<PackageProjectUrl>https://github.com/AzarakhshDemo/Automation</PackageProjectUrl>
+		<RepositoryType>https://github.com/AzarakhshDemo/Automation</RepositoryType>
+	</PropertyGroup>
+
+</Project>
